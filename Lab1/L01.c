@@ -3,8 +3,7 @@
   Programming by Mr.Surapol Rochanapratishtha
 */
 
-#include<stdio>
-
+#include<stdio.h>
 int main()
 {
   printf("Hello world!");
